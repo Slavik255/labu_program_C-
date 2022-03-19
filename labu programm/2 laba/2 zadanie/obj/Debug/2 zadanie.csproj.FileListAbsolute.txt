@@ -1,0 +1,8 @@
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\2 laba\2 zadanie\bin\Debug\2 zadanie.exe.config
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\2 laba\2 zadanie\bin\Debug\2 zadanie.exe
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\2 laba\2 zadanie\bin\Debug\2 zadanie.pdb
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\2 laba\2 zadanie\obj\Debug\2 zadanie.csproj.AssemblyReference.cache
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\2 laba\2 zadanie\obj\Debug\2 zadanie.csproj.SuggestedBindingRedirects.cache
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\2 laba\2 zadanie\obj\Debug\2 zadanie.csproj.CoreCompileInputs.cache
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\2 laba\2 zadanie\obj\Debug\2 zadanie.exe
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\2 laba\2 zadanie\obj\Debug\2 zadanie.pdb
