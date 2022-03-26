@@ -3,8 +3,6 @@ using System.IO;
 
 namespace _3_zadanie
 {
-    // Вопрос о реализации
-
     internal class Program
     {
         static void Main()
