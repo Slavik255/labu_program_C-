@@ -1,0 +1,5 @@
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\9 laba\3 zadanie\bin\Release\3 zadanie.exe.config
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\9 laba\3 zadanie\bin\Release\3 zadanie.exe
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\9 laba\3 zadanie\bin\Release\3 zadanie.pdb
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\9 laba\3 zadanie\obj\Release\3 zadanie.exe
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\9 laba\3 zadanie\obj\Release\3 zadanie.pdb

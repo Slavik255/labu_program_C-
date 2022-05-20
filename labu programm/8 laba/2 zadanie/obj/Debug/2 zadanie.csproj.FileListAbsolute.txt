@@ -1,0 +1,6 @@
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\8 laba\2 zadanie\bin\Debug\2 zadanie.exe.config
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\8 laba\2 zadanie\bin\Debug\2 zadanie.exe
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\8 laba\2 zadanie\bin\Debug\2 zadanie.pdb
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\8 laba\2 zadanie\obj\Debug\2 zadanie.csprojAssemblyReference.cache
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\8 laba\2 zadanie\obj\Debug\2 zadanie.exe
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\labu programm\8 laba\2 zadanie\obj\Debug\2 zadanie.pdb
